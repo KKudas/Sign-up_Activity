@@ -8,7 +8,7 @@
     Title="Sign_up_Activity">
 
     <ShellContent
-        Title="Home"
+        Title="Registration"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
